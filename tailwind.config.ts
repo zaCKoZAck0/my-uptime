@@ -12,6 +12,7 @@ export default {
     extend: {
       colors: {
         main: "#88aaee",
+        mainDark: "#335599",
         overlay: "rgba(0,0,0,0.8)", // background color overlay for alert dialogs, modals, etc.
 
         // light mode
